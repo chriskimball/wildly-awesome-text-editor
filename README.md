@@ -74,10 +74,10 @@ This project is licensed under the MIT license.
 ## Screenshots
 ---------------
 #### JATE web browser
-![JATE web browser](./assets/images/WebBrowser.png)
+![JATE web browser](./assets/images/web_browser.png)
 
 #### JATE desktop application
-![JATE desktop application](./assets/images/Desktop.png)
+![JATE desktop application](./assets/images/desktop_example.png)
 
 
 ## Questions
